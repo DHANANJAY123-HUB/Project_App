@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "tamudatingapp",
+  "private_key_id": "56f77c953aaeb2dc203d932e24f7abe8d04707c0",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQC6/Oio/4Xd/2dm\n6u59olE0SJIEA03cZsVmbS/V9GuMYhmaktnXEI01+exFBydq+EM78HA5gBZWJWSF\ndkDzxZxHtcBRdfpkbVxnBWbVwc9t/XB13i+jfmU0xWh/KrDQBZZ6BNFPIx5qM56c\n8hUA0wxXVkUbxE9sP1jyJcW8XTrVzFmUdfaljXGM5K4ui7M4Hw3wmrZJiWRP+jiZ\nA4tvW2FU7+WTCW66WUwqMhVpnylXz/trg59mKFqE1VaeL7MCW6XVnRL6X5D4LpOh\nzhFNroouogMqszY1z8DBqOpDNO53DMgcbBS/YaLtDYrZ/bNoevVlinEO4gdAjrp/\nYR+Et0ATAgMBAAECggEARUJZIQOoP26TC71YAePl5RI+N0tMAydz1Xj632pNja1m\nY2kiU/UXANel6nl4Ybg8Gw73Wmz1mQn3njGLZF+c/7iz19h1ms4hDC2lheZoIQrf\nJWFbTtkJvo6iInwbCqoPLvnq1z+gS+D7zpEiM3B4oT7ckSjY7DTYirRv9dGocbjB\nI/Vz3x02/wol7zQlFDAsJFAFY5zYhnMV6wDCR84JVCm4uzgjpg+iedNgiOELNEHc\nk9D1RaIAeRK6u452I2mv697ul3BLrgDrS+zW+7zzSt/cXHjMQO6O8NDP+G6zOu0t\n+/QJTfe3m7Lsv85RoJmACqQQfDmYW8skEG1NjhZUPQKBgQDsT9mVG+0m3Pnh85M8\noxvI7seAJGqpx04Andjbq/alStJmVQWi9ATsEilya1ZrUMsqlFbcqd4EWejNCySE\nGVAsxeetu04rPee8oXIXQHEssLhlJZh7Y5EuVD0UOjmviEPXFLfASL3LSpG2NHTS\ntED7MV+/bE4cks59c/8UefyzVwKBgQDKkQ7kSsP5HxIr9Vg//gMHXvSZIPe6WKEJ\nNrfpNPc+e0CvXqf9IMu9ivX4vura8QY7DvUxUKucuabrcwC0JSdif1sYahzi07PC\n8yITHRNGjljSpX9fo0Isv8G/FZUIJmUqlBaAF6bLXttaHW07Y+wZPUL5jlmBrZ0k\niOSTtuz/pQKBgAq0n13S8w50qlljKINxvDuBHcafX7mrTsxWWlGxW64nUprSNTwp\no+Nx+zC0zih0c4/NQpYil+1IiXRokdHuN6SfnpxPRP5OgqYYBkwpXjcxFll2t463\ndwdLR60X6i8alEA1LxHl+bsw+KLxg21cPyliFj1c0bkXqYUjcSXjVOBnAoGAAfzI\nW58MKy6N3BaNJhuU5gadeb8kDxT9h3yc81HMtzU4XkAcf9RJi3OIlEczQLCqsfuk\nljZHaMM9iwPW1u2iZEoBl8y6udL/6YK/K9bWMJQG9RIgnMyaQpwjB3/rtWfDCFbp\nnZodzdMBbfHp93I0h87dEFvALxCIASrCq1xZGO0CgYB2IGbpgvC5tm0wKjL9XMEM\n73kh+7IfCxaDNTLkVOwZHEIASP5VY6+npR/Y46WbwyEq2xsoAjllcyhUG+uTOdhU\nguM20OImYKGGoRCg08JGWiK+Jk8uFitvNBjr81894pkYUfA2r6HjlmiHGb2DMe1e\nXkV/n6ZLBkAklYnMAbDfUA==\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-whigw@tamudatingapp.iam.gserviceaccount.com",
+  "client_id": "111719159540648998866",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-whigw%40tamudatingapp.iam.gserviceaccount.com"
+}

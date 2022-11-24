@@ -1,0 +1,34 @@
+{
+  "name": "tamu_project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "-": "^0.0.1",
+    "cookie-parser": "^1.4.6",
+    "ejs": "^3.1.8",
+    "express": "^4.18.1",
+    "express-fileupload": "^1.4.0",
+    "express-session": "^1.17.3",
+    "express-validator": "^6.14.2",
+    "fcm-node": "^1.6.1",
+    "firebase-admin": "^11.2.0",
+    "fs": "^0.0.1-security",
+    "mongoose": "^6.5.2",
+    "mongoose-paginate-v2": "^1.7.1",
+    "morgan": "^1.10.0",
+    "multer": "^1.4.5-lts.1",
+    "node-notifier": "^10.0.1",
+    "node-red": "^3.0.2",
+    "nodemon": "^2.0.19",
+    "path": "^0.12.7",
+    "react-scripts": "^5.0.1",
+    "save": "^2.5.0"
+  }
+}
